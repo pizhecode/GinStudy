@@ -53,3 +53,4 @@
 {"level":"DEBUG","time":"2024-09-16T23:25:56.863+0800","caller":"web_App/main.go:48","msg":"logger init success"}
 {"level":"DEBUG","time":"2024-09-16T23:26:06.120+0800","caller":"web_App/main.go:48","msg":"logger init success"}
 {"level":"DEBUG","time":"2024-09-16T23:26:21.913+0800","caller":"web_App/main.go:48","msg":"logger init success"}
+{"level":"DEBUG","time":"2024-09-16T23:26:47.811+0800","caller":"web_App/main.go:48","msg":"logger init success"}
