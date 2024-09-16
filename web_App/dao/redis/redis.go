@@ -2,7 +2,7 @@ package redis
 
 import (
 	"fmt"
-	"web_App/settings"
+	"web_App/setting"
 
 	"github.com/go-redis/redis"
 )
@@ -11,7 +11,7 @@ import (
 var rdb *redis.Client
 
 // 初始化连接
-func Init(cfg *settings.RedisConfig) (err error) {
+func Init(cfg *setting.RedisConfig) (err error) {
 	// 使用 fmt.Sprintf 格式化 Redis 地址
 	address := fmt.Sprintf("%s:%d", cfg.Host, cfg.Port)
 

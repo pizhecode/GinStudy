@@ -8,7 +8,7 @@ import (
 	"runtime/debug"
 	"strings"
 	"time"
-	"web_App/settings"
+	"web_App/setting"
 
 	"github.com/spf13/viper"
 
@@ -21,7 +21,7 @@ import (
 var lg *zap.Logger
 
 // Init 初始化Logger
-func Init(cfg *settings.LogConfig) (err error) {
+func Init(cfg *setting.LogConfig) (err error) {
 	writeSyncer := getLogWriter(
 		cfg.Filename,
 		cfg.MaxSize,

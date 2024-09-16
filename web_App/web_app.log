@@ -25,3 +25,31 @@
 {"level":"INFO","time":"2024-09-16T13:32:15.496+0800","caller":"web_App/main.go:73","msg":"Shutdown Server ..."}
 {"level":"INFO","time":"2024-09-16T13:32:15.496+0800","caller":"web_App/main.go:82","msg":"Server exiting"}
 {"level":"DEBUG","time":"2024-09-16T13:56:31.548+0800","caller":"web_App/main.go:41","msg":"logger init success"}
+{"level":"DEBUG","time":"2024-09-16T22:55:31.915+0800","caller":"web_App/main.go:48","msg":"logger init success"}
+{"level":"DEBUG","time":"2024-09-16T22:56:20.718+0800","caller":"web_App/main.go:48","msg":"logger init success"}
+{"level":"DEBUG","time":"2024-09-16T23:00:08.394+0800","caller":"web_App/main.go:48","msg":"logger init success"}
+{"level":"DEBUG","time":"2024-09-16T23:01:25.474+0800","caller":"web_App/main.go:48","msg":"logger init success"}
+{"level":"DEBUG","time":"2024-09-16T23:04:09.008+0800","caller":"web_App/main.go:48","msg":"logger init success"}
+{"level":"DEBUG","time":"2024-09-16T23:05:00.690+0800","caller":"web_App/main.go:48","msg":"logger init success"}
+{"level":"DEBUG","time":"2024-09-16T23:10:49.438+0800","caller":"web_App/main.go:48","msg":"logger init success"}
+{"level":"DEBUG","time":"2024-09-16T23:12:25.057+0800","caller":"web_App/main.go:48","msg":"logger init success"}
+{"level":"DEBUG","time":"2024-09-16T23:12:32.439+0800","caller":"web_App/main.go:47","msg":"logger init success"}
+{"level":"INFO","time":"2024-09-16T23:12:48.520+0800","caller":"web_App/main.go:84","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2024-09-16T23:12:48.520+0800","caller":"web_App/main.go:93","msg":"Server exiting"}
+{"level":"DEBUG","time":"2024-09-16T23:12:54.147+0800","caller":"web_App/main.go:48","msg":"logger init success"}
+{"level":"DEBUG","time":"2024-09-16T23:14:31.694+0800","caller":"web_App/main.go:48","msg":"logger init success"}
+{"level":"DEBUG","time":"2024-09-16T23:15:15.578+0800","caller":"web_App/main.go:48","msg":"logger init success"}
+{"level":"DEBUG","time":"2024-09-16T23:16:43.053+0800","caller":"web_App/main.go:48","msg":"logger init success"}
+{"level":"DEBUG","time":"2024-09-16T23:17:44.586+0800","caller":"web_App/main.go:48","msg":"logger init success"}
+{"level":"DEBUG","time":"2024-09-16T23:18:10.153+0800","caller":"web_App/main.go:48","msg":"logger init success"}
+{"level":"INFO","time":"2024-09-16T23:19:30.545+0800","caller":"web_App/main.go:90","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2024-09-16T23:19:30.546+0800","caller":"web_App/main.go:99","msg":"Server exiting"}
+{"level":"DEBUG","time":"2024-09-16T23:19:38.097+0800","caller":"web_App/main.go:48","msg":"logger init success"}
+{"level":"DEBUG","time":"2024-09-16T23:20:09.006+0800","caller":"web_App/main.go:48","msg":"logger init success"}
+{"level":"DEBUG","time":"2024-09-16T23:20:49.825+0800","caller":"web_App/main.go:48","msg":"logger init success"}
+{"level":"DEBUG","time":"2024-09-16T23:23:28.636+0800","caller":"web_App/main.go:48","msg":"logger init success"}
+{"level":"DEBUG","time":"2024-09-16T23:23:52.625+0800","caller":"web_App/main.go:48","msg":"logger init success"}
+{"level":"DEBUG","time":"2024-09-16T23:24:56.884+0800","caller":"web_App/main.go:48","msg":"logger init success"}
+{"level":"DEBUG","time":"2024-09-16T23:25:56.863+0800","caller":"web_App/main.go:48","msg":"logger init success"}
+{"level":"DEBUG","time":"2024-09-16T23:26:06.120+0800","caller":"web_App/main.go:48","msg":"logger init success"}
+{"level":"DEBUG","time":"2024-09-16T23:26:21.913+0800","caller":"web_App/main.go:48","msg":"logger init success"}

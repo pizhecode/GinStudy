@@ -53,7 +53,7 @@ go get -u github.com/go-redis/redis
 2. **创建数据库 `sql_test`**：
 
    ```
-   sqlCopy CodeCREATE DATABASE sql_name;
+   sqlCopy CodeCREATE DATABASE bluebell;
    ```
 
 3. **确认数据库创建成功**：
@@ -84,5 +84,9 @@ go get -u go.uber.org/zap
 
 ```
 go get github.com/spf13/viper
+```
+
+```
+
 ```
 
